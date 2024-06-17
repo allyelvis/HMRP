@@ -1,8 +1,10 @@
 {
   "dependencies": {
+    "-": "^0.0.1",
     "@nuxtjs/axios": "^5.13.6",
     "body-parser": "^1.20.2",
     "express": "^4.19.2",
+    "g": "^2.0.1",
     "jsonwebtoken": "^9.0.2",
     "mongoose": "^8.4.1"
   },
