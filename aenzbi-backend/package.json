@@ -17,7 +17,7 @@
     "debug": "^2.6.9",
     "dfa": "^1.2.0",
     "ecdsa-sig-formatter": "^1.0.11",
-    "express": "^4.19.2",
+    "express": "^4.21.2",
     "forwarded": "^0.2.0",
     "iconv-lite": "^0.4.24",
     "inherits": "^2.0.4",
