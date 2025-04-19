@@ -13,7 +13,7 @@
     "concat-stream": "^1.6.2",
     "core-util-is": "^1.0.3",
     "cors": "^2.8.5",
-    "csv-parser": "^3.0.0",
+    "csv-parser": "^3.2.0",
     "debug": "^2.6.9",
     "dfa": "^1.2.0",
     "ecdsa-sig-formatter": "^1.0.11",
