@@ -24,7 +24,7 @@
     "ipaddr.js": "^1.9.1",
     "isarray": "^2.0.5",
     "jsonwebtoken": "^9.0.2",
-    "jws": "^3.2.2",
+    "jws": "^3.2.3",
     "memory-pager": "^1.5.0",
     "mime": "^1.6.0",
     "mongoose": "^8.4.3",
