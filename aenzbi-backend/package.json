@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "body-parser": "^1.20.2",
+    "body-parser": "^1.20.4",
     "concat-stream": "^1.6.2",
     "core-util-is": "^1.0.3",
     "cors": "^2.8.5",
@@ -17,7 +17,7 @@
     "debug": "^2.6.9",
     "dfa": "^1.2.0",
     "ecdsa-sig-formatter": "^1.0.11",
-    "express": "^4.21.2",
+    "express": "^4.22.0",
     "forwarded": "^0.2.0",
     "iconv-lite": "^0.6.3",
     "inherits": "^2.0.4",
